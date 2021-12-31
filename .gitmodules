@@ -1,0 +1,3 @@
+[submodule "Bitburner_git_fetch"]
+	path = Bitburner_git_fetch
+	url = https://github.com/lethern/Bitburner_git_fetch.git
